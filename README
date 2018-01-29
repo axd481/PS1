@@ -1,0 +1,3 @@
+This package is a changed version of the normal stdr_control found under part 2 of learning ros.
+In my_stdr_open_loop_commander, I have added movements after the previously existing commands to make the robot complete the maze to get to the top left.
+This was done for PS1 for EECS 376 - Mobile Robotics
